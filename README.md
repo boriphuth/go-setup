@@ -8,4 +8,4 @@ export GOROOT=~/goroot
 export PATH=$PATH:$GOROOT/bin
 export GO111MODULE=on
 ``
-$ mkdir go && cd go && mkdir src && mkdir pkg && cd src
+$ mkdir go && cd go && mkdir src && mkdir pkg && cd src && mkdir github.com && cd github.com && mkdir boriphuth && cd boriphuth
