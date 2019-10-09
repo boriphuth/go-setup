@@ -6,4 +6,5 @@ $ mv go goroot
 $ code . ~/.bash_profile
 export GOROOT=~/goroot
 export PATH=$PATH:$GOROOT/bin
+export GO111MODULE=on
 ``
