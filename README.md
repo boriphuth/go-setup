@@ -16,6 +16,10 @@ export PS1='$ '
 
 ```
 ```
+$ source .zsh_profile
+```
+
+```
 $ mkdir go && cd go && mkdir src && mkdir pkg && cd src && mkdir github.com && cd github.com && mkdir boriphuth && cd boriphuth
 
 ```
