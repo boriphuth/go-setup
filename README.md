@@ -1,7 +1,7 @@
 # go-setup
 ```
-$ curl -O https://dl.google.com/go/go1.13.1.darwin-amd64.tar.gz
-$ tar -xzf go1.13.1.darwin-amd64.tar.gz
+$ curl -O https://dl.google.com/go/go1.15.5.darwin-amd64.tar.gz
+$ tar -xzf go1.15.5.darwin-amd64.tar.gz
 $ mv go goroot
 $ code . ~/.bash_profile
 # Go development
